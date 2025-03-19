@@ -1,6 +1,4 @@
 # TDA Racional
-
-
 count = int(input())
 
 def gcd(n, d):
