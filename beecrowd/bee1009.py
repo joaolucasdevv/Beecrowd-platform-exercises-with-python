@@ -1,3 +1,4 @@
+# Salário com Bônus
 name = str(input())
 salary = float(input())
 sales = float(input())
