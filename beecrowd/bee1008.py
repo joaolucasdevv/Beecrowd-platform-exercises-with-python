@@ -1,3 +1,4 @@
+# Salário
 codFunc = int(input())
 horTrab = int(input())
 valHor = float(input())
