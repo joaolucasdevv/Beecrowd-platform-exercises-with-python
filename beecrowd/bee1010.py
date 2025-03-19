@@ -1,3 +1,4 @@
+# Cálculo Simples
 codPeca1, numPeca1, valPeca1 = map(float, input().split())
 codPeca2, numPeca2, valPeca2 = map(float, input().split())
 
