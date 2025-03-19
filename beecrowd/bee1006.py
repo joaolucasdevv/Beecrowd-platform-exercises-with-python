@@ -1,3 +1,4 @@
+# Média 2
 a = float(input())
 b = float(input())
 c = float(input())
